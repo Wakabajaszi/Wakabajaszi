@@ -7,6 +7,5 @@ been improving my skills in programming.
 
 
 Skills: 
-* 
 :computer: C#, .NET , JavaScript, HTML, CSS
 
